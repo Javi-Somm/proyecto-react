@@ -1,0 +1,106 @@
+# CRÉDITOS DE IMÁGENES
+
+Las imágenes utilizadas en este proyecto fueron obtenidas de Wikimedia Commons.
+Se respetan las licencias indicadas en cada archivo original.
+
+1. MÁQUINA DE ESCRIBIR REMINGTON
+
+---
+
+Archivo: Remington No. 1 typewriter
+
+Autor: Daderot
+
+Licencia: CC0 (dominio público)
+
+Fuente:
+https://commons.wikimedia.org/wiki/File:Remington_No._1_typewriter,_made_by_Remington_%26_Songs,_Ilion,_NY,_1873-1878,_the_first_Sholes_%26_Glidden_model_typewriter_made_by_Remington_-_Wisconsin_Historical_Museum_-_DSC02802.JPG
+
+2. TELÉFONO DE BAQUELITA
+
+---
+
+Archivo: Ericsson 1950s bakelite telephone
+
+Autor: ChristosV
+
+Licencia: CC BY-SA 3.0
+
+Fuente:
+https://commons.wikimedia.org/wiki/File:Ericsson_1950s_bakelite_telephone.jpg
+
+3. RELOJ DE BOLSILLO
+
+---
+
+Archivo: Antique pocket watch
+
+Autor: Joe Haupt
+
+Licencia: CC BY 2.0
+
+Fuente:
+https://commons.wikimedia.org/wiki/File:Antique_pocket_watch_(2800165870).jpg
+
+4. CÁMARA FOTOGRÁFICA ANTIGUA
+
+---
+
+Archivo: Antique Photo camera
+
+Autor: Daderot
+
+Licencia: CC BY-SA 4.0
+
+Fuente:
+https://commons.wikimedia.org/wiki/File:PM_110124_E_Antique_Photo_camera.jpg
+
+5. GRAMÓFONO
+
+---
+
+Archivo: Gramophone
+
+Licencia: CC BY-SA 4.0
+
+Fuente:
+https://commons.wikimedia.org/wiki/File:Gramophone_-_%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%AE%E0%B4%AB%E0%B5%8B%E0%B5%BA_01.JPG
+
+6. LÁMPARA DE ESCRITORIO VINTAGE
+
+---
+
+Archivo: Retro desk lamp
+
+Licencia: CC0 (dominio público)
+
+Fuente:
+https://commons.wikimedia.org/wiki/File:Retro_desk_lamp.jpg
+
+7. BRÚJULA NÁUTICA ANTIGUA
+
+---
+
+Archivo: Antique British naval compass
+
+Licencia: Creative Commons
+
+Fuente:
+https://commons.wikimedia.org/wiki/File:Antique_British_naval_compass.jpg
+
+8. RADIO DE VÁLVULAS
+
+---
+
+Archivo: 1950 VHF Valve radio
+
+Licencia: CC BY 2.0
+
+Fuente:
+https://commons.wikimedia.org/wiki/File:1950_VHF_Valve_radio_(8325546601).jpg
+
+## NOTA
+
+Las imágenes se utilizan únicamente como material visual para un proyecto
+educativo de React. Las condiciones de reutilización y atribución corresponden
+a las licencias indicadas en las páginas originales de Wikimedia Commons.

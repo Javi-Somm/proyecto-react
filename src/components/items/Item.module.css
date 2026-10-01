@@ -1,0 +1,12 @@
+.contenedor{
+    width: 150px;
+    height: 200px;
+    margin: 20px;
+    background-color:aquamarine;
+    border: 2px solid black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

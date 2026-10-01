@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Máquina de escribir Remington",
+    "descripcion": "Máquina de escribir mecánica de estilo clásico, con cuerpo metálico y teclas originales. Una pieza representativa de los escritorios de mediados del siglo XX.",
+    "precio": 85000,
+    "imagen": "/img/maquina-escribir.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Teléfono de baquelita",
+    "descripcion": "Teléfono antiguo de baquelita negra con auricular clásico y disco de marcación. Ideal como pieza decorativa para una colección vintage.",
+    "precio": 62000,
+    "imagen": "/img/telefono-baquelita.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Reloj de bolsillo mecánico",
+    "descripcion": "Reloj de bolsillo de cuerda manual con caja metálica y esfera de estilo tradicional. Una pieza elegante inspirada en la relojería de principios del siglo XX.",
+    "precio": 115000,
+    "imagen": "/img/reloj-bolsillo.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Cámara fotográfica Kodak antigua",
+    "descripcion": "Cámara fotográfica analógica de formato clásico, con cuerpo compacto y acabado en tonos oscuros. Una pieza característica de la fotografía del siglo pasado.",
+    "precio": 98000,
+    "imagen": "/img/camara-kodak.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Gramófono de sobremesa",
+    "descripcion": "Gramófono decorativo de estilo antiguo con bocina metálica y mecanismo de reproducción tradicional. Ideal para coleccionistas y amantes de la música clásica.",
+    "precio": 175000,
+    "imagen": "/img/gramofono.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Lámpara de escritorio vintage",
+    "descripcion": "Lámpara de escritorio de diseño clásico con estructura metálica y pantalla orientable. Una pieza decorativa inspirada en mobiliario de oficinas antiguas.",
+    "precio": 73000,
+    "imagen": "/img/lampara-vintage.jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Brújula náutica antigua",
+    "descripcion": "Brújula de navegación de estilo náutico, presentada en una caja metálica de aspecto envejecido. Una pieza decorativa inspirada en los instrumentos utilizados por antiguos navegantes.",
+    "precio": 69000,
+    "imagen": "/img/brujula-nautica.jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Radio de válvulas",
+    "descripcion": "Radio de sobremesa de estilo clásico con gabinete de madera y controles frontales. Una pieza que recrea la estética de los antiguos aparatos de radio domésticos.",
+    "precio": 132000,
+    "imagen": "/img/radio-valvulas.jpg"
+  }
+]

@@ -1,0 +1,52 @@
+function FormProducto({
+    manejarCambio,
+    manejarEnvio,
+    manejarCambioImagen, 
+    datosForm, 
+    cargando
+}){
+    return (
+    <form onSubmit={manejarEnvio}>
+      <h3>Agregar Nuevo Producto</h3>
+      <div>
+        <label>Nombre:</label>
+        <input 
+          name="nombre"
+          type="text" 
+          value={datosForm.nombre} 
+          onChange={manejarCambio} 
+        />
+      </div>
+      <div>
+        <label>Precio:</label>
+        <input
+          name="precio"
+          type="number"
+          value={datosForm.precio}
+          onChange={manejarCambio}
+        />
+      </div>
+      <div>
+        <label>Descripción:</label>
+        <textarea
+            name="descripcion" 
+            value={datosForm.descripcion} 
+            onChange={manejarCambio}
+        ></textarea>
+      </div>
+      <div>
+        <label>Imagen:</label>
+        <input 
+          name="imagen"
+          type="file"
+          onChange={manejarCambioImagen} 
+        />
+      </div>
+      <button type="submit" disabled={cargando}>
+        {cargando ? "Guardando..": "Guardar Producto"}
+      </button>
+    </form>
+  )
+}
+
+export default FormProducto

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "nombre": "Martín Gómez",
+        "puesto": "CEO",
+        "email": "contact.martin@example.com",
+        "foto": "/img/persona1.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Diego Pérez",
+        "puesto": "Desarrollador Front-End",
+        "email": "contact.diego@example.com",
+        "foto": "/img/persona2.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Sofía Rodríguez",
+        "puesto": "Desarrollador Back-End",
+        "email": "contact.sofia@example.com",
+        "foto": "/img/persona3.png"
+    }
+]
