@@ -1,12 +1,13 @@
 .contenedor{
-    width: 150px;
+    /* width: 150px;
     height: 200px;
-    margin: 20px;
-    background-color:aquamarine;
+    margin: 20px; */
+    background-color:beige;
     border: 2px solid black;
     border-radius: 20px;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    flex-wrap: wrap;
+    text-align: center;
 }

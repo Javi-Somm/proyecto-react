@@ -5,7 +5,7 @@ function Header (){
     return(
         <header>
             <Link to= "/">
-                Antiguedades
+                <h1>Antiguedades</h1>
             </Link>
             <Nav/>
         </header>

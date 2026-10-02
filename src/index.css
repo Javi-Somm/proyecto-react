@@ -118,13 +118,14 @@ code {
 
 body{
   font-family: Georgia, 'Times New Roman', Times, serif;
+  text-decoration: none;
   color: black;
   background-color: antiquewhite;
 }
 
 header{
   height: 100px;
-  background-color: aquamarine;
+  background-color:chocolate;
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -142,6 +143,7 @@ nav ul{
 }
 
 main{
+  height: 700px;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -149,6 +151,25 @@ main{
 }
 
 footer{
-  height: 500px;
+  height: 200px;
   background-color:lightgray;
+  border-top: 2px solid black;
+  padding-top: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  text-align: center;
+}
+
+footer p{
+  grid-column: 1 / -1;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover{
+  color: saddlebrown;
 }

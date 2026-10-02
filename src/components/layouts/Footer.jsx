@@ -12,7 +12,7 @@ function Footer (){
                 Política de Privacidad
             </a>
             <p>
-                © {anioActual} <span>Antiguedades</span> – Talento Terch Todos los derechos reservados.
+                © {anioActual} <span>Antiguedades</span> – Talento Tech Todos los derechos reservados.
             </p>
         </footer>
     )
